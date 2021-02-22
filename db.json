@@ -1,0 +1,24 @@
+{
+    "player1" :{
+        "name": "Pooja",
+        "distance": 200
+    },
+
+
+    "player2": {
+        "name": "Pooja",
+        "distance": 200
+    },
+
+
+    "player3": {
+        "name": "Pooja",
+        "distance": 200
+    },
+
+
+    "player4": {
+        "name": "Pooja",
+        "distance": 200
+    }
+}
